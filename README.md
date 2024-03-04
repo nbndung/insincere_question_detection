@@ -1,8 +1,8 @@
 ### Dataset
-- Download dataset from Kaggle:
+- Download dataset from Kaggle:<br>
 https://www.kaggle.com/c/quora-insincere-questions-classification/data
 
-- This project used GloVe Embeddings 6B.50d or 6B.100d
+- This project used GloVe Embeddings 6B.50d or 6B.100d<br>
 https://nlp.stanford.edu/projects/glove/
 
 ### About the project
